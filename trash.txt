@@ -1,0 +1,36 @@
+d = 11, 2
+
+append(3)
+print(i) 11
+
+d = 11, 2, 3
+
+[11, 2, 3, 3, 3]
+
+count   0 false
+            append(3)
+
+            d 11 2 3
+
+            c = c + 1
+                0 + 1
+            c = 1
+
+count   1 false
+            append(3)
+            
+            d 11 2 3 3
+
+            c 2
+
+count   2 false
+            append(3)
+
+            d 11 2 3 3 3
+
+            c = 3
+
+count   3 true
+            break
+
+
